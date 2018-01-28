@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="city_name">Enter city name</string>
+    <string name="get_data">Get weather</string>
+    <string name="btn_city">Find forecast by city </string>
+    <string name="btn_gps">Find forecast by GPS</string>
+    <string name="btn_find_location">Find Location</string>
+    <string name="err_msg_email">City name cannot be empty</string>
+</resources>
